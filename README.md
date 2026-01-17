@@ -4,7 +4,7 @@ Hi 👋 My name is awes al hamdi
 full stack developer | pentester
 --------------------------------
 # 💫 About Me:
-🌍 I'm based in tunisia<br>✉️ You can contact me at awesalhamdi@gmail.com<br>🧠 I'm currently learning full stack<br>👥 I'm looking to collaborate on any project that crosses your mind
+🌍 I'm based in tunisia<br>✉️ You can contact me at awesalhamdi@gmail.com<br>🧠 I'm currently learning Go<br>👥 I'm looking to collaborate on any project that crosses your mind
 
 
 # 💻 Tech Stack:
